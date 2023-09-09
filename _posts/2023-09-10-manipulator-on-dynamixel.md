@@ -87,6 +87,7 @@ Currently we are working on learning how to control dynamixel using UART communi
 1. Learning to code from scratch to transmit and receive data through UART communication from esp32 to Dynamixel motor.
 - Solution:
 Referring this resource :  https://www.buildlog.net/blog/2020/01/dynamixel-servos-in-grbl-esp32/ and  along with help from our mentors
+
  *PS: Work In Progress*
  
 2. Since there is only one Data pin on Dynamixel motor and two separate RX and TX pins on ESP we needed to find a solution to be able to successfully control the motor.
